@@ -1,0 +1,29 @@
+body{
+    color: rgb(0, 0, 0);
+    background: linear-gradient(to right, rgb(1, 29, 119), rgb(97, 208, 236));
+}
+.fuente{
+    font-size: 22px;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+}
+.animacion{
+    animation-duration: 3s;
+    animation-name: slidein;
+}
+.centrado{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.borde{
+    border: 5px solid rgb(0, 5, 82);
+    width: fit-content;
+    border-radius: px;
+}
+.bordescript{
+    height: auto;
+    border: rgb(31, 7, 255) 3px solid;
+    border-radius: 10cm; 
+}
+
